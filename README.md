@@ -1,4 +1,3 @@
-
 import java.util.LinkedList;
 
 public class TugasStrukturData {
@@ -48,5 +47,5 @@ public class TugasStrukturData {
 
     }
 
-
+    
 }
